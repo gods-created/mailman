@@ -34,4 +34,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tag: ${{ secrets.USERNAME }}/${{ secrets.IMAGE_NAME }}
+          tags: ${{ secrets.USERNAME }}/${{ secrets.IMAGE_NAME }}

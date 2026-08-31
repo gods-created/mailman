@@ -1,0 +1,13 @@
+__pycache__
+*/__pycache__/*
+
+db.sqlite
+docker-compose.yml
+stack.yml
+tests
+
+.venv
+.env
+.vscode
+.gitignore
+.github

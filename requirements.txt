@@ -1,0 +1,27 @@
+langchain
+langgraph
+langchain-google-genai
+
+python-dotenv
+loguru
+asyncio
+aiohttp
+SMTPEmail
+pandas
+numpy
+pydantic[email]
+email-validator
+faker
+BeautifulSoup4
+argon2-cffi
+
+fastapi
+starlette
+python-multipart
+uvicorn
+gunicorn
+
+alembic
+SQLAlchemy
+
+# python -m pip install --no-cache-dir --upgrade -r requirements.txt
